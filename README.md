@@ -16,7 +16,7 @@
 
 ## ❖ Assignment Description ❖
 
-For this assignment, you’ll be writing two Kotlin programs. The first is a program that accepts input from the user in the form of an integer, then creates a diamond whose width (in columns) and height (in rows) are dictated by user input. For example, if the user enters 5, then the height of the diamond is 5 rows and the width of the diamond is 5 columns. See [http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4](http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4).
+For this assignment, you’ll be writing two Kotlin programs. The first is a program that accepts input from the user in the form of an integer, then creates a diamond whose width (in columns) and height (in rows) are dictated by user input. For example, if the user enters 5, then the height of the diamond is 5 rows and the width of the diamond is 5 columns. **Watch [this video](http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4)**.
 
 **Important Note**: Odd and even versions of the diamond are rendered differently. Review the aforementioned video carefully for an example.
 
@@ -29,7 +29,7 @@ Your second program must do the following:
 5. Swaps the contents of the matrix on one side of the diagonal formed from top right to bottom left with the other side, highlighting the elements along the diagonal and leaving them untouched/unswapped
 6. Prints the flipped matrix
 
-As mentioned in item 5, the elements in the diagonal **must not be touched**, while the other elements in the matrix **must be swapped**. The numbers in every cell of the matrix is arbitrary; each cell could have contained a letter, string, image, or other object/primitive. Numbers are being used in this assignment because they produce a sequence that is easy to follow when working with the matrix. **A movie of how this assignment should behave in its resolved state is available [here](http://vanegas.cs.hartford.edu/uploads/videos/matrix-flip-along-diagonal--java.mp4).**
+As mentioned in item 5, the elements in the diagonal **must not be touched**, while the other elements in the matrix **must be swapped**. The numbers in every cell of the matrix is arbitrary; each cell could have contained a letter, string, image, or other object/primitive. Numbers are being used in this assignment because they produce a sequence that is easy to follow when working with the matrix. **Watch [this video](http://vanegas.cs.hartford.edu/uploads/videos/matrix-flip-along-diagonal--java.mp4).**
 
 ---
 
