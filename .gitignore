@@ -2,3 +2,7 @@
 
 !.gitignore
 !README.md
+
+!diamond-program/
+!diamond-program/Makefile
+!diamond-program/*.kt
