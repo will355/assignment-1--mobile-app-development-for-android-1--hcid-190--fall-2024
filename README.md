@@ -16,7 +16,7 @@
 
 ## ❖ Assignment Description ❖
 
-For this assignment, you’ll be writing two programs. The first is a program that accepts input from the user in the form of an integer, then creates a diamond whose width (in columns) and height (in rows) are dictated by user input. For example, if the user enters 5, then the height of the diamond is 5 rows and the width of the diamond is 5 columns. See [http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4](http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4).
+For this assignment, you’ll be writing two Kotlin programs. The first is a program that accepts input from the user in the form of an integer, then creates a diamond whose width (in columns) and height (in rows) are dictated by user input. For example, if the user enters 5, then the height of the diamond is 5 rows and the width of the diamond is 5 columns. See [http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4](http://vanegas.cs.hartford.edu/uploads/videos/diamond-program-in-java.mp4).
 
 **Important Note**: Odd and even versions of the diamond are rendered differently. Review the aforementioned video carefully for an example.
 
