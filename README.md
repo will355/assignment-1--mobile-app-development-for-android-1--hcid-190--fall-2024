@@ -32,6 +32,18 @@ Your second program must do the following:
 As mentioned in item 5, the elements in the diagonal **must not be touched**, while the other elements in the matrix **must be swapped**. The numbers in every cell of the matrix is arbitrary; each cell could have contained a letter, string, image, or other object/primitive. Numbers are being used in this assignment because they produce a sequence that is easy to follow when working with the matrix. **A movie of how this assignment should behave in its resolved state is available [here](http://vanegas.cs.hartford.edu/uploads/videos/matrix-flip-along-diagonal--java.mp4).**
 
 ---
+
+## ❖ Grading ❖
+
+| Item                                                                        | Points  |
+|-----------------------------------------------------------------------------|:-------:|
+| Program 1 works according to instructions                                   | `25`    |
+| Program 2 works according to instructions                                   | `25`    |
+| All code is neat and professional                                           | `25`    |
+| All variable naming is logical                                              | `25`    |
+
+---
+
 ## ❖ Due ❖
 
 Friday, 18 October 2024, at 5:00 PM.
