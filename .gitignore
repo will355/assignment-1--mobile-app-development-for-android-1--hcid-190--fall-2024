@@ -6,3 +6,7 @@
 !diamond-program/
 !diamond-program/Makefile
 !diamond-program/*.kt
+
+!matrix-program/
+!matrix-program/Makefile
+!matrix-program/*.kt
